@@ -2,9 +2,8 @@
 
 > **Plan your day. Track what you actually did. See exactly where your time went.**
 
-A free, privacy-first, browser-based daily planner that goes beyond scheduling — it tracks your real productivity, logs your distractions, and generates weekly performance reports. No login. No subscription. No data leaves your device.
+A free, privacy-first, browser-based daily planner that goes beyond scheduling , it tracks your real productivity, logs your distractions, and generates weekly performance reports. No login. No subscription. No data leaves your device.
 
----
 
 ## 🌟 Why This Exists
 
@@ -18,7 +17,6 @@ It works for anyone:
 - 💻 **Freelancers** logging billable hours across multiple clients
 - 🏃 **Anyone** trying to build better daily habits
 
----
 
 ## ✨ Features
 
@@ -26,7 +24,7 @@ It works for anyone:
 
 - **Fully customizable activity cards** — rename, add, or delete categories to match your life, not a template someone else designed
 - **Editable schedule blocks** — click any time, name, or note to edit it directly; use ↑↓ arrow keys to nudge times by 5 minutes
-- **＋ / − buttons** on every block — insert a new block directly below, or delete it silently
+- **＋ / − buttons** on every block , insert a new block directly below, or delete it silently
 - **Category dropdown** — assign each block to the right activity; the name auto-fills from your card label
 - **Inline break logging** — log a distraction inside any block (e.g. a 30-min phone call during Research time); net productive time recalculates automatically
 - **Separate break blocks** — log standalone breaks like lunch, going out, or naps as their own blocks
@@ -71,7 +69,7 @@ Everything is stored in your browser's localStorage — no server, no database, 
 
 ### Option 1 — Use it instantly (no setup needed)
 
-1. Download `daily_schedule_planner.html`
+1. Download `daily_schedule_planner.html` : https://vocal-pastelito-c7fb7a.netlify.app/
 2. Open it in any modern browser (Chrome recommended)
 3. Start planning
 
